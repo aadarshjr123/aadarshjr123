@@ -1,1 +1,1 @@
-<img src="https://github.com/aadarshjr123/programming/blob/main/programming.gif" />
+<img src="https://github.com/aadarshjr123/aadarshjr123/blob/main/programming.gif" />
