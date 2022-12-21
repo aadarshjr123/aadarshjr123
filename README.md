@@ -14,7 +14,7 @@ Hi there 👋
 
 ---
 
-<h1 align='center'>⚡️<strong>Stay awesome!</strong>⚡️</h1>
+<p align='center'>⚡️<strong>Stay awesome!</strong>⚡️</p>
 
 
 <p align="center">
