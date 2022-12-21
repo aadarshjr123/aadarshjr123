@@ -1,5 +1,6 @@
-<p align="center">
-### Hi there 👋
+<p align="center"><strong>
+Hi there 👋
+</strong>
 </p>
 <p align="center">
 ⏳ Year progress { █████████████████████████████▁ } 97.13 %
