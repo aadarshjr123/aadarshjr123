@@ -1,6 +1,6 @@
-<p align="center"><strong>
+<p align="center"><i>
 Hi there 👋
-</strong>
+</i>
 </p>
 <p align="center">
 ⏳ Year progress { █████████████████████████████▁ } 97.13 %
@@ -14,7 +14,7 @@ Hi there 👋
 
 ---
 
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+<h1 align='center'>⚡️<strong>Stay awesome!</strong>⚡️</h1>
 
 
 <p align="center">
